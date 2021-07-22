@@ -1,0 +1,5 @@
+﻿  selectionSort.cpp
+C:\Users\elie_\Desktop\github\Algorithms\Sorting\Sorting\selectionSort.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elie_\Desktop\github\Algorithms\Sorting\Sorting\selectionSort.cpp(12,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\elie_\Desktop\github\Algorithms\Sorting\Sorting\selectionSort.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+  Sorting.vcxproj -> C:\Users\elie_\Desktop\github\Algorithms\Sorting\Debug\Sorting.exe
